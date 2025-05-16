@@ -14,3 +14,20 @@ Chào mừng bạn đến với dự án BookStore! Đây là một ứng dụng
 * **Cơ sở dữ liệu**: **Firebase Firestore** để lưu trữ thông tin sách, người dùng và đơn hàng.
 * **Xác thực**: **Firebase Authentication** để quản lý người dùng.
 * **Hosting**: **Firebase Hosting** cho việc triển khai frontend.
+=================================================================================================================
+# Graduation Project - BookStore
+Welcome to the Bookstore project! This is a complete web application that allows users to browse, search and buy books online.
+
+## Feature
+*  **Sign up & Sign in**: Users can create accounts and log in to manage personal information and view order history.
+* **Browse books**: Browse books by genre, author or search by title.
+* **Cart**: Add books to the cart and make payment.
+* **Order management**: Monitor the status of order, confirm payment and view the history of purchasing.
+* **Admin page**: Admin can manage warehouses, add new books, update book information and income statistics.
+
+## Technology
+* **Frontend**: **Next.js**, **TailwindCSS** to build UI, **Axios** to call API.
+* **Backend**: API integrated on **Firebase Functions**.
+* **Database**: **Firebase Firestore**  to store book information, users and orders.
+* **Authentication**: **Firebase Authentication** to manage users.
+* **Hosting**: **Firebase Hosting** for the implementation of Frontend.
