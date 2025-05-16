@@ -14,7 +14,7 @@ Chào mừng bạn đến với dự án BookStore! Đây là một ứng dụng
 * **Cơ sở dữ liệu**: **Firebase Firestore** để lưu trữ thông tin sách, người dùng và đơn hàng.
 * **Xác thực**: **Firebase Authentication** để quản lý người dùng.
 * **Hosting**: **Firebase Hosting** cho việc triển khai frontend.
-=================================================================================================================
+=========================================================================================
 # Graduation Project - BookStore
 Welcome to the Bookstore project! This is a complete web application that allows users to browse, search and buy books online.
 
